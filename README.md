@@ -84,4 +84,7 @@ _Herramientas utilizadas y enlaces de interes:_
 
 
 ---
+
+![Readme](readme.jpg)
+
 por [almoril00](https://github.com/almoril00) 😊
