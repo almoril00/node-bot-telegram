@@ -32,7 +32,7 @@ Obtendremos respuesta con enlace y token de nuestro bot creado:
 Done! Congratulations on your new bot. You will find it at t.me/alm00testbot.
 ...
 Use this token to access the HTTP API:
-1878775895:AAFB6ZIpKDcVVkd8BZsNTiJZHTe6fy*****
+18787*****:AAFB6ZIpKDcVVkd8BZsNTiJZHTe6fy*****
 ...
 ```
 

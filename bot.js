@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf')
 
 //const bot = new Telegraf(process.env.BOT_TOKEN)
-const bot = new Telegraf('1878775895:AAFB6ZIpKDcVVkd8BZsNTiJZHTe6fy*****')
+const bot = new Telegraf('18787*****:AAFB6ZIpKDcVVkd8BZsNTiJZHTe6fy*****')
 
 
 //////  COMANDOS  ///////
